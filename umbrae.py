@@ -1,6 +1,6 @@
 import statistics as st
 
-def umbrea(data, forecast):
+def umbrae(data, forecast):
     """
     Unscaled Mean Bounded Relative Absolute Error
     Formula taken from:
